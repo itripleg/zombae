@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/downline.png</file>
+        <file>pics/downtri.png</file>
+        <file>pics/upline.png</file>
+        <file>pics/uptri.png</file>
+        <file>pics/1_upLine_whitePoop.png</file>
+        <file>pics/2_downTri_engineRight.png</file>
+        <file>pics/3_downLine_RedPoop.png</file>
+        <file>pics/4_upTri_engineLeft.png</file>
+        <file>fonts/read_this.txt</file>
+        <file>fonts/ZOMBIE.TTF</file>
+        <file>pics/voyage_loading_screen.jpg</file>
+        <file>sounds/zombie_round.mp3</file>
+        <file>pics/outlet.jpg</file>
+        <file>sounds/drowning.mp3</file>
+        <file>fonts/DeadFontWalking-X2Ka.ttf</file>
+        <file>pics/outlet-1stclass.jfif</file>
+        <file>pics/outlet-aft.jfif</file>
+        <file>pics/outlet-berths.jfif</file>
+        <file>pics/outlet-grand.jfif</file>
+        <file>pics/outlet-state.jfif</file>
+        <file>pics/outlet-dining.JPG</file>
+    </qresource>
+</RCC>
